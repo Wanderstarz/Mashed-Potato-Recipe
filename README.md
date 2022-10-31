@@ -8,5 +8,7 @@ As a user I want to easily view recipe.\
 As a user I want to view video on the how the recipe is made
 
 ## Features
-
 ### Design Feature
+* Video Player - Allow user to view video\
+* Table - List all the ingredients and the amount required\
+* Steps - List all the steps to complete the recipe
